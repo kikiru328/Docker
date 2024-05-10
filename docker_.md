@@ -4,7 +4,7 @@
 
 **<u>[Backend Development Terms]</u>**
 
-
+ 
 <font size='2'>1. CI/CD</font>  
 ><font size='2'>지속적 통합 (Continuous Integration, CI): 지속적 통합은 개발자들이 <span style='color:skyblue'>코드 변경 사항</span> 을 <span style='color:#skyblue'>중앙 저장소</span>에 자주 (일반적으로는 하루에 여러 번) 병합 (merge)하는 것을 말한다. 각 병합시마다 코드를 자동으로 빌드하고 테스트하여, 개발 초기 단계에서 문제를 발견하고 수정할 수 있게 한다. 이 과정은 통합 과정에서 발생할 수 있는 문제를 최소화하여, 소프트웨어의 품질을 향상시킨다.</font>
   
